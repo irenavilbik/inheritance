@@ -14,6 +14,4 @@ public class Main {
                 british.sayYourBreed();
                 british.sayYourName();
     }
-
-
 }

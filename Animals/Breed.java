@@ -5,6 +5,6 @@ public class Breed extends Cat {
     public String breed;
 
     public void sayYourBreed() {
-        System.out.println("And my breed is " + breed + " and I come from " + getClass());
+        System.out.println("My breed is " + breed + " I am created in " + getClass());
     }
 }
