@@ -1,6 +1,5 @@
-package OOP.Animals;
+package inheritance.Animals;
 
-import OOP.Cat;
 
 public class Breed extends Cat {
     public String breed;

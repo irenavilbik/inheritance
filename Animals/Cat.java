@@ -1,4 +1,4 @@
-package OOP.Animals;
+package inheritance.Animals;
 
 class Cat extends Animal {
 

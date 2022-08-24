@@ -1,4 +1,4 @@
-package OOP.Animals;
+package inheritance.Animals;
 
 public class Animal {
     public String Name;
