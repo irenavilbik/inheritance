@@ -1,1 +1,1 @@
-# inheritance-Animals
+# OOP - inheritance - Animals
